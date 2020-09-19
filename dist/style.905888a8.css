@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#html{word-break:break-all}#taiji{position:fixed;left:50%;transform:translateX(-50%);top:20px}#taiji:after,#taiji:before{content:"";display:block;position:absolute}@media (max-width:500px){#html{height:50vh;overflow:auto;margin:10px;border:1px solid grey}#taijiWrapper{height:calc(50vh - 20px)}#taiji{margin:0 auto;position:relative;top:50%;transform:translateY(-50%);left:0}}
+/*# sourceMappingURL=style.905888a8.css.map */
